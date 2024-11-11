@@ -1,0 +1,23 @@
+body {
+    background-image: url('../assets/new_bg2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  .super{
+    padding: 200px;
+    margin: 100px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+  }
+  .container{
+    padding: 100px;
+  }
+  .f_btn {
+    background-color: #555555;
+}
+.s_btn {
+    background-color: #555555;
+    color: white;
+}
